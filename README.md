@@ -24,6 +24,7 @@
 | [04 · 网银、手机银行与支付](04-banking-and-payments.md) |
 | [05 · 音乐、播客与有声书](05-music-and-audio.md) |
 | [06 · 国服游戏与直播](06-gaming-and-streaming.md) |
+| [07 · 在国外看国内家里的监控](07-home-camera-abroad.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 
