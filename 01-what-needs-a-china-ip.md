@@ -20,7 +20,7 @@
 
 ## 解决 IP 问题的方式
 
-把流量先送到一台大陆的服务器，再由它访问目标。做法有客户端、浏览器代理、路由器三种，选择方法见姊妹仓库的[五种接入方式怎么选](https://github.com/vipinus/network-guides/blob/main/guides/02-choose-your-connection-method.md)。
+把流量先送到一台大陆的服务器，再由它访问目标。做法有客户端、浏览器代理、路由器三种，选择方法见姊妹仓库的[五种接入方式怎么选](https://github.com/vipinus/network-guides/blob/main/02-choose-your-connection-method.md)。
 
 ---
 由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

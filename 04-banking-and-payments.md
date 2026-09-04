@@ -15,7 +15,7 @@
 
 - 换中国 IP 之后**先做小额操作**，让风控习惯这个环境，再做大额。
 - 保留国内 SIM 卡并开漫游，验证码和 SIM 检测都靠它。
-- 手机银行尽量装国内版，商店地区问题见姊妹仓库的 [iOS 装不了应用怎么办](https://github.com/vipinus/network-guides/blob/main/guides/05-ios-app-store-region.md)。
+- 手机银行尽量装国内版，商店地区问题见姊妹仓库的 [iOS 装不了应用怎么办](https://github.com/vipinus/network-guides/blob/main/05-ios-app-store-region.md)。
 - 被拦了不要反复试，多次失败会触发临时冻结，打客服电话解锁最快。
 
 ## 支付宝与微信支付
