@@ -18,18 +18,18 @@
 
 | 篇 |
 |---|
-| [01 · 01 · 哪些服务需要中国 IP](01-what-needs-a-china-ip.md) |
-| [02 · 02 · 在国外看国内视频](02-watch-chinese-video-abroad.md) |
-| [03 · 03 · 上国内政府与公共服务网站](03-government-and-public-services.md) |
-| [04 · 04 · 网银、手机银行与支付](04-banking-and-payments.md) |
-| [05 · 05 · 音乐、播客与有声书](05-music-and-audio.md) |
-| [06 · 06 · 国服游戏与直播](06-gaming-and-streaming.md) |
-| [07 · 07 · 在国外看国内家里的监控](07-home-camera-abroad.md) |
-| [08 · 08 · 回国线路怎么选：国内 IP 从哪来、免费的坑在哪](08-how-to-choose-a-huiguo-line.md) |
-| [09 · 09 · 验证码收不到与国内手机号](09-sms-code-and-china-phone-number.md) |
-| [10 · 10 · 留学生回国 VPN 怎么配](10-students.md) |
-| [11 · 11 · 回国 VPN 免费还是付费](11-free-vs-paid.md) |
-| [12 · 12 · 出差旅行怎么配](12-travel.md) |
+| [01 · 哪些服务需要中国 IP](01-what-needs-a-china-ip.md) |
+| [02 · 在国外看国内视频](02-watch-chinese-video-abroad.md) |
+| [03 · 上国内政府与公共服务网站](03-government-and-public-services.md) |
+| [04 · 网银、手机银行与支付](04-banking-and-payments.md) |
+| [05 · 音乐、播客与有声书](05-music-and-audio.md) |
+| [06 · 国服游戏与直播](06-gaming-and-streaming.md) |
+| [07 · 在国外看国内家里的监控](07-home-camera-abroad.md) |
+| [08 · 回国线路怎么选：国内 IP 从哪来、免费的坑在哪](08-how-to-choose-a-huiguo-line.md) |
+| [09 · 验证码收不到与国内手机号](09-sms-code-and-china-phone-number.md) |
+| [10 · 留学生回国 VPN 怎么配](10-students.md) |
+| [11 · 回国 VPN 免费还是付费](11-free-vs-paid.md) |
+| [12 · 出差旅行怎么配](12-travel.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 
