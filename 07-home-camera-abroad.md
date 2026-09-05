@@ -1,5 +1,7 @@
 # 07 · 在国外看国内家里的监控
 
+> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/home-camera
+
 ## 三种情况，解法不一样
 
 | 你家的监控是哪种 | 在海外能不能直接看 | 解法 |
@@ -12,7 +14,7 @@
 
 摄像头把画面推到厂商服务器，App 从服务器拉。海外网络到国内厂商服务器的线路差，表现为加载慢、断流。换中国 IP 之后走的是国内线路，明显改善。
 
-注意海外商店里的同名 App 往往连的是海外服务器，账号互不相通。装国内版 App，商店地区问题见[排障与安装指南](https://github.com/vipinus/troubleshooting-guides/blob/main/03-ios-app-store-region.md)。
+注意海外商店里的同名 App 往往连的是海外服务器，账号互不相通。装国内版 App，商店地区问题见[排障与安装指南](https://github.com/vipinus/client-guides/blob/main/06-ios-app-store.md)。
 
 ## 情况二：录像机只在局域网
 

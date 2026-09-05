@@ -1,5 +1,7 @@
 # 08 · 回国线路怎么选：国内 IP 从哪来、免费的坑在哪
 
+> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/huiguo-vpn
+
 回国线路只做一件事：让你在海外发出的请求，以一个**中国大陆**的 IP 到达腾讯视频、网易云、网银。所以先看两点——出口是不是真的大陆 IP，设备上有没有流量绕过它。速度、价格、客户端都排在后面。
 
 ## 国内 IP 是怎么来的
@@ -13,7 +15,7 @@
 | 项目 | 怎么看 | 不合格的表现 |
 |---|---|---|
 | 出口地区 | 连上后查 IP 归属地 | 港台日韩地址 |
-| IPv6 与 DNS | 搜"test ipv6"打开检测页 | IPv6 栏显示你所在国家 → 视频站仍会拦，见[排障 06](https://github.com/vipinus/troubleshooting-guides/blob/main/06-ipv6-and-dns-leak.md) |
+| IPv6 与 DNS | 搜"test ipv6"打开检测页 | IPv6 栏显示你所在国家 → 视频站仍会拦，见[排障 06](https://github.com/vipinus/troubleshooting-guides/blob/main/03-ipv6-and-dns-leak.md) |
 | 客户端 | 是不是标准协议（AnyConnect、OpenVPN、sing-box） | 只有一个私有 App，下架就没得用 |
 | 带宽 | 北京时间晚 8–11 点播 1080p | 白天快晚上转圈 |
 | 多设备与路由器 | 一个账号几台、能不能路由器整机接入 | 每台设备单独买 |

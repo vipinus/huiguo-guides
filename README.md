@@ -18,14 +18,18 @@
 
 | 篇 |
 |---|
-| [01 · 哪些服务需要中国 IP](01-what-needs-a-china-ip.md) |
-| [02 · 在国外看国内视频](02-watch-chinese-video-abroad.md) |
-| [03 · 上国内政府与公共服务网站](03-government-and-public-services.md) |
-| [04 · 网银、手机银行与支付](04-banking-and-payments.md) |
-| [05 · 音乐、播客与有声书](05-music-and-audio.md) |
-| [06 · 国服游戏与直播](06-gaming-and-streaming.md) |
-| [07 · 在国外看国内家里的监控](07-home-camera-abroad.md) |
-| [08 · 回国线路怎么选：国内 IP 从哪来、免费的坑在哪](08-how-to-choose-a-huiguo-line.md) |
+| [01 · 01 · 哪些服务需要中国 IP](01-what-needs-a-china-ip.md) |
+| [02 · 02 · 在国外看国内视频](02-watch-chinese-video-abroad.md) |
+| [03 · 03 · 上国内政府与公共服务网站](03-government-and-public-services.md) |
+| [04 · 04 · 网银、手机银行与支付](04-banking-and-payments.md) |
+| [05 · 05 · 音乐、播客与有声书](05-music-and-audio.md) |
+| [06 · 06 · 国服游戏与直播](06-gaming-and-streaming.md) |
+| [07 · 07 · 在国外看国内家里的监控](07-home-camera-abroad.md) |
+| [08 · 08 · 回国线路怎么选：国内 IP 从哪来、免费的坑在哪](08-how-to-choose-a-huiguo-line.md) |
+| [09 · 09 · 验证码收不到与国内手机号](09-sms-code-and-china-phone-number.md) |
+| [10 · 10 · 留学生回国 VPN 怎么配](10-students.md) |
+| [11 · 11 · 回国 VPN 免费还是付费](11-free-vs-paid.md) |
+| [12 · 12 · 出差旅行怎么配](12-travel.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 
@@ -33,12 +37,12 @@
 
 | 仓库 | 内容 |
 |---|---|
-| [huiguo-guides](https://github.com/vipinus/huiguo-guides) | 回国访问场景：看国内视频、政务网站、网银支付、音乐、游戏 |
-| [chuhai-guides](https://github.com/vipinus/chuhai-guides) | 出海访问场景：在国内用海外的办公、开发、学术、游戏、影音服务 |
-| [network-guides](https://github.com/vipinus/network-guides) | 网络原理与接入方式怎么选 |
-| [client-guides](https://github.com/vipinus/client-guides) | 客户端安装与设置：AnyConnect、sing-box/Hiddify、OpenVPN、网页代理、私网 Tailscale |
-| [router-guides](https://github.com/vipinus/router-guides) | 路由器与家庭网络：分流、电视、刷固件、绑定 |
-| [troubleshooting-guides](https://github.com/vipinus/troubleshooting-guides) | 排障与安装：连不上、看不了、装不上 |
+| [huiguo-guides](https://github.com/vipinus/huiguo-guides) | 回国访问场景：看国内视频、政务网站、网银支付、音乐、游戏、看家里监控、验证码与国内手机号、留学生、出差旅行、线路怎么选、免费还是付费 |
+| [chuhai-guides](https://github.com/vipinus/chuhai-guides) | 出海访问场景：哪些服务要海外 IP、AnyConnect 在中国、选地区、公司电脑、Linux 与命令行、NAS 走线路 |
+| [network-guides](https://github.com/vipinus/network-guides) | 原理与选型：回国访问是怎么回事、六种接入方式怎么选、私网和 VPN 的区别、我们和其他 VPN 的区别、识别有风险的 VPN 软件 |
+| [client-guides](https://github.com/vipinus/client-guides) | 客户端安装与设置：AnyConnect、sing-box/Hiddify、网页代理扩展、OpenVPN、私网 Tailscale、iOS 装应用、Telegram 与 Discord、多设备 |
+| [router-guides](https://github.com/vipinus/router-guides) | 路由器与家庭网络：预装上手、刷固件、分流、电视与老人、绑定换机、解锁国内视频、选型号、固件能做什么 |
+| [troubleshooting-guides](https://github.com/vipinus/troubleshooting-guides) | 排障：连不上/慢/断线、开了回国还是不能看、IPv6 与 DNS 漏网、音乐盒导入了连不上、怎么联系我们 |
 
 ## 许可
 

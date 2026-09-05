@@ -1,5 +1,7 @@
 # 02 · 在国外看国内视频
 
+> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/overseas-video
+
 ## 为什么看不了
 
 平台买的是大陆地区版权，境外 IP 一律拦。这不是技术故障，换 IP 是唯一解法。
@@ -16,6 +18,10 @@
 | 央视频 / CCTV | 换 IP 即可 | 同 | 直播频道对 IP 最敏感 |
 
 **海外版 App 的坑**：在海外商店搜"爱奇艺"装到的往往是 iQIYI 国际版，内容库完全不同。要看国内库存，得装国内版 App，iPhone 需要中国区 Apple ID，安卓可以直接装 APK。
+
+## 连上了还提示版权限制
+
+出口 IP 已经是中国大陆、网站仍提示版权限制，九成是设备的 **IPv6 或本机 DNS 绕过了线路**。蓝盾的三种整机接入 2026-09 起已在线路侧拦住 IPv6；9 月以前导入的音乐盒配置要删掉重新扫码。排查步骤见 [IPv6 和 DNS 是漏网之鱼](https://github.com/vipinus/troubleshooting-guides/blob/main/03-ipv6-and-dns-leak.md)。
 
 ## 电视上看
 
