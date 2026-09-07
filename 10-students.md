@@ -27,18 +27,18 @@
 ## 校园网和宿舍网络的三个限制
 
 - IPv6：见上，用会拦 IPv6 的线路。
-- UDP 受限或被限速：不少校园网对 UDP 流量限速甚至拦截。sing-box 用的 hysteria2 走 UDP，在这种网络上反而不如走 TLS 的 AnyConnect 稳；一个账号两种都能用，UDP 不行就换 AnyConnect。
+- UDP 受限或被限速：不少校园网对 UDP 流量限速甚至拦截。Hiddify 用的 hysteria2 走 UDP，在这种网络上反而不如走 TLS 的 AnyConnect 稳；一个账号两种都能用，UDP 不行就换 AnyConnect。
 - 登录门户（captive portal）：连上校园 Wi‑Fi 先在浏览器完成认证，再开线路。线路客户端设了「开机自动连接」的话，会在认证前就尝试连接并失败，多等一会或手动重连即可。
 
 ## 假期回国：同一个账号反过来用
 
 回国后要用 Google、学校邮箱、论文数据库，把线路地区从中国换成日本、美国或就近的海外地区就行，账号不用换。蓝盾 的 24 个地区都在同一个账号里，海外访问国内和国内访问海外是同一件事的两个方向。
 
-在国内连接时，AnyConnect 和 sing-box 的地址会自动更换以应对封锁，客户端里保存的地址不用改；连不上就换地区或换协议。
+在国内连接时，AnyConnect 和 Hiddify 的地址会自动更换以应对封锁，客户端里保存的地址不用改；连不上就换地区或换协议。
 
 ## 开学前十分钟设置清单
 
-1. 手机装一个客户端（AnyConnect 或 sing-box 的 Hiddify），电脑装一个，各自登录或扫码导入。
+1. 手机装一个客户端（AnyConnect 或 Hiddify 的 Hiddify），电脑装一个，各自登录或扫码导入。
 2. 在宿舍 Wi‑Fi 下连国内线路，打开 IPv6 检测页确认 IPv6 不可用或显示大陆地址。
 3. 打开腾讯视频随便播一集，确认不提示版权限制。
 4. 登录一次网银 App 确认能进，然后退出 App、断开线路。
@@ -50,7 +50,7 @@
 
 **一个账号能和室友合用吗？** 一个账号可以 5 台设备同时在线，家人或室友合用在规则允许范围内。但网银这类场景各用各的账号更稳妥，避免同一线路上多人频繁切换触发风控。
 
-**为什么宿舍里 sing-box 慢而 AnyConnect 正常？** 多半是校园网限制了 UDP。sing-box 的 hysteria2 协议基于 UDP，被限速后表现为慢或断；AnyConnect 走 TLS，和访问 HTTPS 网站一样不受影响。
+**为什么宿舍里 Hiddify 慢而 AnyConnect 正常？** 多半是校园网限制了 UDP。Hiddify 的 hysteria2 协议基于 UDP，被限速后表现为慢或断；AnyConnect 走 TLS，和访问 HTTPS 网站一样不受影响。
 
 **回国线路能玩国服游戏吗？** 能登录，但延迟取决于你到国内出口的物理距离，从北美连回国内通常 150 到 250 毫秒，回合制和 MOBA 可以接受，射击类会有感觉。
 
@@ -61,7 +61,7 @@
 - [海外看腾讯视频提示版权限制怎么办](https://7d24hrs.com/zh-CN/guides/overseas-video)
 - [回国 VPN 怎么选](https://7d24hrs.com/zh-CN/guides/huiguo-vpn)
 - [AnyConnect 客户端下载](https://7d24hrs.com/zh-CN/anyconnect)
-- [sing-box 客户端与订阅导入](https://7d24hrs.com/zh-CN/singbox)
+- [Hiddify 客户端与订阅导入](https://7d24hrs.com/zh-CN/singbox)
 
 本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/students
 
