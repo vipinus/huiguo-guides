@@ -30,6 +30,9 @@
 | [10 · 留学生回国 VPN 怎么配](10-students.md) |
 | [11 · 回国 VPN 免费还是付费](11-free-vs-paid.md) |
 | [12 · 出差旅行怎么配](12-travel.md) |
+| [13 · 微信、支付宝与国内小程序](13-wechat-alipay-miniprograms.md) |
+| [14 · 帮国外的长辈设置：装一次，之后不用管](14-help-parents-abroad.md) |
+| [15 · 网课、考试报名与学历认证](15-online-courses-and-exams.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 
