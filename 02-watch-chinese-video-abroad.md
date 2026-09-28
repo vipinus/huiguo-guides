@@ -21,7 +21,7 @@
 
 ## 连上了还提示版权限制
 
-出口 IP 已经是中国大陆、网站仍提示版权限制，九成是设备的 **IPv6 或本机 DNS 绕过了线路**。蓝盾的三种整机接入 2026-09 起已在线路侧拦住 IPv6；9 月以前导入的流量伪装配置要删掉重新扫码。排查步骤见 [IPv6 和 DNS 是漏网之鱼](https://github.com/vipinus/troubleshooting-guides/blob/main/03-ipv6-and-dns-leak.md)。
+出口 IP 已经是中国大陆、网站仍提示版权限制，九成是设备的 **IPv6 或本机 DNS 绕过了线路**。蓝诺的三种整机接入 2026-09 起已在线路侧拦住 IPv6；9 月以前导入的流量伪装配置要删掉重新扫码。排查步骤见 [IPv6 和 DNS 是漏网之鱼](https://github.com/vipinus/troubleshooting-guides/blob/main/03-ipv6-and-dns-leak.md)。
 
 ## 电视上看
 
@@ -35,4 +35,4 @@
 跨境链路是瓶颈。1080p 需要稳定 5 Mbps 以上，晚上高峰期不够就降到 720p。选离你近、到大陆有优化线路的入口，比换平台管用。
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝诺](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
