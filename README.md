@@ -1,5 +1,7 @@
 # 回国访问指南 · 需要中国 IP 的那些事
 
+> **本库已于 2026-10-04 合并到 [蓝盾知识库 guides-zh-CN](https://github.com/vipinus/guides-zh-CN/tree/main/huiguo)**，以后的更新都在新库；这里的内容不再维护。其他语言：[繁體中文](https://github.com/vipinus/guides-zh-TW/tree/main/huiguo)
+
 人在海外，很多国内服务会因为你的 IP 不在中国大陆而拒绝：视频、音乐、政务、银行、购票、游戏。一篇一个场景，讲清楚**为什么被拦、怎么解决、还有什么坑**。由 [蓝盾](https://7d24hrs.com) 团队维护，中文、通用。
 
 **最多人问的一篇：[在国外用路由器解锁国内视频网站](https://github.com/vipinus/router-guides/blob/main/06-unlock-chinese-video-with-router.md)**——电视、盒子、全家设备一次配置，连 Wi-Fi 就能看爱奇艺、腾讯视频、央视频。
