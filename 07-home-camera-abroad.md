@@ -1,6 +1,6 @@
 # 07 · 在国外看国内家里的监控
 
-> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/home-camera
+> 网站版（更长、含繁体与英文）：https://www.leotun.com/zh-CN/guides/home-camera
 
 ## 三种情况，解法不一样
 
@@ -35,4 +35,4 @@
 家里监控的画面只应该在你的设备和家里之间流动。私有网络方案优先点对点直连，直连不通时才经中继转发，画面不会存在任何服务器上；厂商云端方案则经过厂商。两种都不要用来路不明的"穿透工具"，那等于把家里的摄像头交给别人。
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝盾](https://www.leotun.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

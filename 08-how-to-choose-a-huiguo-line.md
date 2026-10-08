@@ -1,6 +1,6 @@
 # 08 · 回国线路怎么选：国内 IP 从哪来、免费的坑在哪
 
-> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/huiguo-vpn
+> 网站版（更长、含繁体与英文）：https://www.leotun.com/zh-CN/guides/huiguo-vpn
 
 回国线路只做一件事：让你在海外发出的请求，以一个**中国大陆**的 IP 到达腾讯视频、网易云、网银。所以先看两点——出口是不是真的大陆 IP，设备上有没有流量绕过它。速度、价格、客户端都排在后面。
 
@@ -53,4 +53,4 @@
 **能用 Clash 吗？** 能。蓝盾同时给 Hiddify 配置地址和 hysteria2 分享链接，Clash Meta 导入分享链接即可；导入后把国内域名设成走节点，别设"直连"。
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝盾](https://www.leotun.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

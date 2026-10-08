@@ -1,6 +1,6 @@
 # 02 · 在国外看国内视频
 
-> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/overseas-video
+> 网站版（更长、含繁体与英文）：https://www.leotun.com/zh-CN/guides/overseas-video
 
 ## 为什么看不了
 
@@ -35,4 +35,4 @@
 跨境链路是瓶颈。1080p 需要稳定 5 Mbps 以上，晚上高峰期不够就降到 720p。选离你近、到大陆有优化线路的入口，比换平台管用。
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝盾](https://www.leotun.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

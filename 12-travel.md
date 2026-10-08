@@ -6,7 +6,7 @@
 
 1. 手机装 Cisco Secure Client（App Store / Google Play，或本站思科页面的安装包），登录本站点国旗复制一个地区的地址填进去，用本站账号密码连一次确认能通。
 2. 多复制两个地区的地址存在客户端里：一个目的地附近的，一个备用的。到了当地网络不同，最优地区常常不一样。
-3. 记下三个域名（7d24hrs.com → 7x24btc.com → anyfq.com）和至少一个客服群的入口，网络不熟的地方出问题能找到人。
+3. 记下四个域名（leotun.com → 7d24hrs.com → 7x24btc.com → anyfq.com）和至少一个客服群的入口，网络不熟的地方出问题能找到人。
 4. 笔记本也装一个，或者用网页代理扩展——公司电脑装不了客户端时它照样能用。
 
 ## 落地之后
@@ -39,12 +39,12 @@
 
 ## 延伸阅读
 
-- [思科 AnyConnect 下载与设置](https://7d24hrs.com/zh-CN/anyconnect)
-- [留学生回国 VPN 怎么配](https://7d24hrs.com/zh-CN/guides/students)
-- [怎么联系我们、怎么不失联](https://7d24hrs.com/zh-CN/guides/stay-in-touch)
-- [回国 VPN 免费还是付费](https://7d24hrs.com/zh-CN/guides/free-vs-paid)
+- [思科 AnyConnect 下载与设置](https://www.leotun.com/zh-CN/anyconnect)
+- [留学生回国 VPN 怎么配](https://www.leotun.com/zh-CN/guides/students)
+- [怎么联系我们、怎么不失联](https://www.leotun.com/zh-CN/guides/stay-in-touch)
+- [回国 VPN 免费还是付费](https://www.leotun.com/zh-CN/guides/free-vs-paid)
 
-本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/travel
+本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/travel
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝盾](https://www.leotun.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

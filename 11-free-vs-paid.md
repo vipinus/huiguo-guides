@@ -52,12 +52,12 @@
 
 ## 延伸阅读
 
-- [价格与免费试用](https://7d24hrs.com/zh-CN)
-- [回国 VPN 怎么选](https://7d24hrs.com/zh-CN/guides/huiguo-vpn)
-- [海外看腾讯视频提示版权限制怎么办](https://7d24hrs.com/zh-CN/guides/overseas-video)
-- [留学生回国 VPN 怎么配](https://7d24hrs.com/zh-CN/guides/students)
+- [价格与免费试用](https://www.leotun.com/zh-CN)
+- [回国 VPN 怎么选](https://www.leotun.com/zh-CN/guides/huiguo-vpn)
+- [海外看腾讯视频提示版权限制怎么办](https://www.leotun.com/zh-CN/guides/overseas-video)
+- [留学生回国 VPN 怎么配](https://www.leotun.com/zh-CN/guides/students)
 
-本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/free-vs-paid
+本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/free-vs-paid
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝盾](https://www.leotun.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
